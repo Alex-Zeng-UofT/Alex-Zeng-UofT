@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Alex</h1>
-<h3 align="center">A software engineering student at UofT 👨🏻‍💻</h3>
+<h3 align="center" >A 3rd year software engineering student at UofT 👨🏻‍💻</h3>
 
 <p align='center'> <img width="90%" src="https://github.com/Alex-Zeng-UofT/Alex-Zeng-UofT/assets/114100209/0b13172a-161c-459d-836c-5caf340ad151"> </p>
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences from my [Resume](https://docs.google.com/document/d/1-GsOIfhcDDiW1-UsRlMcH7_EOGlJwW5SukLMsRB25rM/edit?usp=sharing)
 
-- ⚡ Fun fact **Java is the first ever language I ever learned and it was back in high school**
+- ⚡ Fun fact: **Java is the first ever language I ever learned and it was back in high school**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
