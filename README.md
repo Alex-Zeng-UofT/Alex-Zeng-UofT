@@ -1,6 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Alex</h1>
 <h3 align="center">A software engineering student at UofT 👨🏻‍💻</h3>
 
+<p align='center'> <img width="90%" src="https://github.com/Alex-Zeng-UofT/Alex-Zeng-UofT/assets/114100209/0b13172a-161c-459d-836c-5caf340ad151"> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-zeng-uoft&label=Profile%20views&color=0e75b6&style=flat" alt="alex-zeng-uoft" /> </p>
 
 - 🔭 I’m currently working on **Graditor, a grade predicting machine learning web app**
