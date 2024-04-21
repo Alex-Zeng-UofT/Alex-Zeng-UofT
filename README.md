@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **a.zeng@mail.utoronto.ca**
 
-- 📄 Know about my experiences from my [Resume](https://docs.google.com/document/d/1-GsOIfhcDDiW1-UsRlMcH7_EOGlJwW5SukLMsRB25rM/edit?usp=sharing)
+- 📄 Know about my experiences from my [Resume](https://docs.google.com/document/d/1SxR9lrCR-16yJE5j8v7vo2sNfX_L7hafrIV7JwDiWow/edit?usp=sharing)
 
 - ⚡ Fun fact: **Java is the first ever language I ever learned and it was back in high school**
 
