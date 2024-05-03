@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Graditor, a grade predicting machine learning web app**
 
-- 🌱 I’m currently learning **Angular with TypeScript**
+- 🌱 I’m currently learning **Angular with TypeScript and C# with Unity**
 
 - 👨‍💻 Definitely go check out my new [Portfolio](https://alex-zeng-uoft.github.io/New-Portfolio/)
 
