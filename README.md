@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Graditor, a grade predicting machine learning web app**
 
-- 🌱 I’m currently learning **Angular with TypeScript and C# with Unity**
+- 🌱 I’m currently learning **C# with Unity to build a game**
 
 - 👨‍💻 Definitely go check out my new [Portfolio](https://alex-zeng-uoft.github.io/New-Portfolio/)
 
 - 📫 How to reach me **a.zeng@mail.utoronto.ca**
 
-- 📄 Know about my experiences from my [Resume](https://docs.google.com/document/d/1SxR9lrCR-16yJE5j8v7vo2sNfX_L7hafrIV7JwDiWow/edit?usp=sharing)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1gmBIEwNXNQw7fSDV45ONZUSfdmj-zky0/view?usp=sharing)
 
 - ⚡ Fun fact: **Java is the first ever language I ever learned and it was back in high school**
 
