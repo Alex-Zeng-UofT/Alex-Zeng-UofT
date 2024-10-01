@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C# with Unity to build a game**
 
-- 👨‍💻 Definitely go check out my new [Portfolio](https://alex-zeng-uoft.github.io/New-Portfolio/)
+- 👨‍💻 Definitely go check out my new [Portfolio](https://alex-zeng-uoft.github.io/)
 
 - 📫 How to reach me **a.zeng@mail.utoronto.ca**
 
