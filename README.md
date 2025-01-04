@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Alex</h1>
-<h3 align="center" >A 3rd year software engineering student at UofT 👨🏻‍💻</h3>
+<h3 align="center" >A 4th year software engineering and statistics student at UofT 👨🏻‍💻</h3>
 
 <p align='center'> <img width="90%" src="https://github.com/Alex-Zeng-UofT/Alex-Zeng-UofT/assets/114100209/0b13172a-161c-459d-836c-5caf340ad151"> </p>
 
